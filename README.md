@@ -1,6 +1,41 @@
 # Pengenalan-Bahasa-Pemograman-Python-01
 Pengenalan Bahasa Pemograman Python bagian 1
 
+# Basic Python Module
+
+<div style="background-color: #28a745 !important; color: white; min-height: 50px; padding: 10px; margin: auto;">
+  <p><strong>Tim penyusun modul Dasar-dasar Python:</strong></p>
+  <ul>
+      <li>Dr. rer.nat. Wiwit Suryanto, M.Si.</li>
+      <li>Dr. T. Marwan Irnaka, M.Sc.</li>
+      <li>Prima Wira K.W., M.Sc., S.Si.</li>
+      <li>Anang Sahroni, S.Si.</li>
+      <li>Fittra Irwandhono, S.Si.</li>
+      <li>Iqbal Asyadad, S.Si.</li>
+      <li>Andre Krismantara, S.Si.</li>
+      <li>Ilham Sidik, S.Si.</li>      
+  </ul>
+</div>
+
+<div style="background-color: whitesmoke; padding: 10px ">
+    <p><strong>Tujuan:</strong></p>
+    <ul>
+        <li>Memperkenalkan dasar pemrograman Python</li>
+    </ul>
+    <p><strong>Keluaran:</strong></p>
+    <ul>
+        <li>Peserta dapat menjalankan Python dan memahami penggunaannya</li>
+    </ul>
+    <p><strong>Waktu/Tempat:</strong></p>
+    <ul>
+        <li>Rabu, 7 September 2022 / Daring / Praktikum Metode Komputasi</li>
+    </ul>
+</div>
+
+
+# Pengenalan-Bahasa-Pemograman-Python-01
+Pengenalan Bahasa Pemograman Python bagian 1
+
 # 1 Variabel dan Operasi
 
 ## 1.1 Variabel
