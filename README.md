@@ -9,10 +9,9 @@ t=float(input('masukan tinggi:'))
 b=0.5*a*t
 print('luas=',b)
 ```
-
-masukan alas:12
-masukan tinggi:10
-luas= 60.0
+masukan alas:12 __
+masukan tinggi:10 __
+luas= 60.0 __
 
 ``` {.python}
 a=float(input('angka:'))
