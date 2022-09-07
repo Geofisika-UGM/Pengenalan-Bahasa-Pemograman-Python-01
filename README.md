@@ -750,6 +750,15 @@ else:
 
     angka:12
     genap
+2. Cobalah buat perumpamaan (if-else) dengan permasalahan sederhana.
+```Python
+#Contoh
+a=float(input('angka:'))
+if a % 2==0:
+  print('genap')
+else:
+  print('gempi') 
+```
 
 ## Lisensi
 
