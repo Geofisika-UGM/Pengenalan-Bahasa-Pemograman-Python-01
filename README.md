@@ -1,6 +1,6 @@
 ## Penugasan
 
-1.  Buatlah 3 rumus fisika dasar dan operasikan rumus tersebut
+#1.  Buatlah 3 rumus fisika dasar dan operasikan rumus tersebut
     berdasarkan input yang kalian tentukan sendiri
 
 ``` {.python}
@@ -10,9 +10,9 @@ b=0.5*a*t
 print('luas=',b)
 ```
 
-    masukan alas:12
-    masukan tinggi:10
-    luas= 60.0
+masukan alas:12
+masukan tinggi:10
+luas= 60.0
 
 ``` {.python}
 a=float(input('angka:'))
@@ -22,9 +22,11 @@ else:
   print('gempi') 
 ```
 
-    angka:12
-    genap
-2. Cobalah buat perumpamaan (if-else) dengan permasalahan sederhana.
+angka:12
+genap
+
+#2. Cobalah buat perumpamaan (if-else) dengan permasalahan sederhana.
+
 ```Python
 #Contoh
 a=float(input('angka:'))
@@ -33,6 +35,8 @@ if a % 2==0:
 else:
   print('gempi') 
 ```
+
+#3. Buatlah list sederhana berisikan minimal data diri 20 orang random yang berisi [Nama, Umur, TB, BB]. Kemudian lakukan operasi if-else sederhana untuk memfilter data dari list orang-orang yang anda buat.
 
 ## Lisensi
 
