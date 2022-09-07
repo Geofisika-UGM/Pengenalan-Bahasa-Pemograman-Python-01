@@ -9,9 +9,10 @@ t=float(input('masukan tinggi:'))
 b=0.5*a*t
 print('luas=',b)
 ```
-masukan alas:12 __
-masukan tinggi:10 __
-luas= 60.0 __
+Output: <br />
+masukan alas:12 <br />
+masukan tinggi:10 <br />
+luas= 60.0
 
 ``` {.python}
 a=float(input('angka:'))
@@ -20,8 +21,8 @@ if a % 2==0:
 else:
   print('gempi') 
 ```
-
-angka:12
+Output: <br />
+angka:12 <br />
 genap
 
 #2. Cobalah buat perumpamaan (if-else) dengan permasalahan sederhana.
