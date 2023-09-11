@@ -1,4 +1,4 @@
-## Penugasan
+## Penugasan 1
 
 #1.  Buatlah 3 rumus fisika dasar dan operasikan rumus tersebut
     berdasarkan input yang kalian tentukan sendiri
